@@ -11,6 +11,8 @@ nbformat = "*"
 nltk = "*"
 wordcloud = "*"
 jupyter-black = "*"
+scikit-learn = "*"
+xgboost = "*"
 
 [dev-packages]
 
